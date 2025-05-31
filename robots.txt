@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://monkeymart.one/sitemap.xml
+Sitemap: https://monkey-mart.one/sitemap.xml
 
 # Block access to admin and private areas
 Disallow: /admin/

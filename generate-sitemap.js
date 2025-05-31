@@ -4,7 +4,7 @@ const xmlbuilder = require('xmlbuilder');
 
 // Configuration
 const config = {
-    baseUrl: 'https://monkeymart.one',
+    baseUrl: 'https://monkey-mart.one',
     outputFile: 'sitemap.xml',
     // Add file extensions to scan
     extensions: ['.html', '.htm'],
