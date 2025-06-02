@@ -1,4 +1,3 @@
-// Cập nhật domain trong các entry của ads.txt nếu có
 google.com, pub-4151519079019358, DIRECT, f08c47fec0942fa0
 #WG ADX
 google.com, pub-4529402052683454, RESELLER, f08c47fec0942fa0
