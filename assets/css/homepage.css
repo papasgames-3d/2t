@@ -660,6 +660,7 @@
 @media (max-width: 768px) {
     .hero-section {
         padding: 60px 0;
+        padding-right: 0px;
     }
     
     .hero-content {
