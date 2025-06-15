@@ -3,11 +3,6 @@ Allow: /
 Allow: /ads.txt
 Sitemap: https://monkey-mart.one/sitemap.xml
 
-# Block access to admin and private areas
-Disallow: /admin/
-Disallow: /private/
-Disallow: /includes/
-Disallow: /cgi-bin/
 
 # Allow CSS, JS, and image files
 Allow: /*.css$
@@ -19,11 +14,3 @@ Allow: /*.gif$
 Allow: /*.svg$
 Allow: /*.webp$
 
-# Block certain file types
-Disallow: /*.json$
-Disallow: /*.xml$
-Disallow: /*.txt$
-Disallow: /*.md$
-Disallow: /*.log$
-Disallow: /*.sql$
-Disallow: /*.zip$ 
